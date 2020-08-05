@@ -1,12 +1,17 @@
 # workrus_publicobjectDeop(워크러스 공공제 객체 창고)
 
 ProjectName : AVUAM PublicObjectDeop<累閱使修可(누열사수가) 객체 창고)
+
 Anyone can View & Use 累(누)구나 閱(열)람하고 使(사)용가능하고
+
 Anyone can modify 누구나 修(수)정이 可(가)능한
+
 (JavaCode)PublicObjectDeop (자바코드)객체 창고
 
 Project designer(프로젝트 설계자) : 서밀러스(조영덕)
+
 Design date : Since 2020/08/06(설계 날짜 : 2020년 8월 6일)
+
 Project Classification(프로젝트 분류) : Longest period project(초장기간 프로젝트)
 
 ObjectDeop Internal directions(객체 창고 내부 약도)
