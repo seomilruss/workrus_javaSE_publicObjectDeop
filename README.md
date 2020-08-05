@@ -11,6 +11,7 @@ PublicObjectDeop (자바)객체 창고
 ObjectDeop Internal directions(객체 창고 내부 약도)
 
 publicobjectDeop
+
       ↓
       
       → ★ Life(생명체 - 예시 동물, 식물, 사람)
