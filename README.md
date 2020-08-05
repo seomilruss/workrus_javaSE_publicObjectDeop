@@ -14,6 +14,8 @@ Project Design date : Since 2020/08/06(프로젝트 설계날짜 : 2020년 8월 
 
 Project Classification(프로젝트 분류) : Longest period project(초장기간 프로젝트)
 
+Classification unit(분류단위) : Object(객체)를 단위로 하는 단위 프로젝트로 구분함.
+
 ObjectDeop Internal directions(객체 창고 내부 약도)
 
 publicobjectDeop
