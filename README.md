@@ -1,5 +1,7 @@
 # workrus_publicobjectDeop
 ProjectName : AVUAM PublicObjectDeop
+Project designer(프로젝트 설계자) : 서밀러스(조영덕)
+Project Classification(프로젝트 분류) : Longest period project(초장기간 프로젝트)
 workrus_publicobjectDeop(워크러스 공공제 객체 창고)
 Design date : Since 2020/08/06(설계 날짜 : 2020년 8월 6일)
 
