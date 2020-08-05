@@ -1,4 +1,4 @@
-# workrus_java_publicObjectDeop(워크러스 자바 공공제 객체 창고)
+# workrus_java_publicObjectDeop(워크러스 자바 공공재 객체 창고)
 
 ProjectName : AVUAM PublicObjectDeop<累閱使修可(누열사수가) 객체 창고>
 
@@ -26,7 +26,7 @@ publicobjectDeop
       
       → ★ contents(컨텐츠 - 예시 영화, 음악, 미술 등 가시성이 없는 추상적인 객체들)
       
-      → ★ food(음식 - 예시 김치찌게, 크로아상 등 음식과 관련된 객체들)
+      → ★ food(음식 - 예시 김치찌개, 크로아상 등 음식과 관련된 객체들)
       
       → ★ life(생명체 - 예시 동물, 식물, 사람)
       
