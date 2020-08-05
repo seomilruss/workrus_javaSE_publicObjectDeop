@@ -10,7 +10,7 @@ Anyone can modify 누구나 修(수)정이 可(가)능한
 
 Project designer(프로젝트 설계자) : 서밀러스(조영덕)
 
-Design date : Since 2020/08/06(설계 날짜 : 2020년 8월 6일)
+Project Design date : Since 2020/08/06(프로젝트 설계날짜 : 2020년 8월 6일)
 
 Project Classification(프로젝트 분류) : Longest period project(초장기간 프로젝트)
 
