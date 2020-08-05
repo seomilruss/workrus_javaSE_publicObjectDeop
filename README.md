@@ -1,11 +1,11 @@
 # workrus_publicobjectDeop
-workrus_publicobjectDeop(워크러스 공공제 객체 창고)
-
 ProjectName : AVUAM PublicObjectDeop
+workrus_publicobjectDeop(워크러스 공공제 객체 창고)
+Design date : Since 2020/08/06(설계 날짜 : 2020년 8월 6일)
 
 Anyone can View & Use 누구나 열람하고 사용가능하고
 Anyone can modify 누구나 수정이 가능한
-PublicObjectDeop (자바)객체 창고
+(JavaCode)PublicObjectDeop (자바코드)객체 창고
 
 
 ObjectDeop Internal directions(객체 창고 내부 약도)
