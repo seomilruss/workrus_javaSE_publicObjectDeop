@@ -1,6 +1,6 @@
 # workrus_publicobjectDeop(워크러스 공공제 객체 창고)
 
-ProjectName : AVUAM PublicObjectDeop<累閱使修可(누열사수가) 객체 창고)
+ProjectName : AVUAM PublicObjectDeop<累閱使修可(누열사수가) 객체 창고>
 
 Anyone can View & Use 累(누)구나 閱(열)람하고 使(사)용가능하고
 
