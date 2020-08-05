@@ -12,6 +12,7 @@ ObjectDeop Internal directions(객체 창고 내부 약도)
 
 publicobjectDeop
       ↓
+      
       → ★ Life(생명체 - 예시 동물, 식물, 사람)
       
       → ★ stuff(물건 - 예시 책, 연필, 악기, 아래에 해당되지 않는 물품객체 )
