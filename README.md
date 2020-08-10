@@ -19,3 +19,4 @@ Project Classification(프로젝트 분류) : Longest period project(초장기�
 
 Classification unit(분류단위) : Object(객체)를 단위로 하는 단위 프로젝트로 구분함.
 
+![캡처](https://user-images.githubusercontent.com/54846678/89748869-6178a180-db00-11ea-8f0b-6956039b8eaa.JPG)
