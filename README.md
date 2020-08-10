@@ -1,7 +1,8 @@
 ![myTema](https://user-images.githubusercontent.com/54846678/89571702-168e2e00-d863-11ea-9d8e-5d91fb980f26.gif)
 
 
-# workrus_javaSE_publicObjectDeop(워크러스 자바SE 공공재 객체 창고)
+# workrus_javaSE_publicObjectDeop
+(워크러스 자바SE 공공재 객체 창고)
 
 ProjectName : AVUAM PublicObjectDeop<累閱使修可(누열사수가) 객체 창고>
 
